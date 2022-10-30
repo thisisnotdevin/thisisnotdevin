@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisisnotdevin I'm currently a Computer Science student at Brooklyn College
-- 👀 I’m interested in Software Developing and Cybersecurity
+- 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning Databases, Software Development, and Algorithms.
 - 📫 How to reach me: Instagram and Twitter @thisisnotdevin
 
