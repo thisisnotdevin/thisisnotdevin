@@ -1,14 +1,18 @@
 # 👋 Hi, I’m Devin I'm a Software Engineer/Developer
+
+<h3>😁 Intro</h3>
+
 - 👀 You can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
 - 🌱 I'm very passionate about Front-End Development and Full Stack
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | React | C++ 
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | Firebase | Postman | AWS | Docker
 - 🔧 &nbsp; Google Collab | Visual Studio code  | Git
-- 🖥 &nbsp; Notion | Figma
-- 
+- 🖥 &nbsp; Notion | Figma | Canva
+
 > "Make it work, then make it beautiful, then if you really, really have to, make it fast. 90 percent of the time, if you make it beautiful, it will already be fast. So really, just make it beautiful!" – Joe Armstrong
 
 <h3> 📋 Languages </h3>
