@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Devin I'm a Software Engineer/Developer
 - 👀 You can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
-- 🌱 I'm very passionate about Front-End Development
+- 🌱 I'm very passionate about Front-End Development and Full Stack
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | React | C++ 
