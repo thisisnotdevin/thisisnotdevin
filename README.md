@@ -13,6 +13,8 @@
 - 🔧 &nbsp; Google Collab | Visual Studio code  | Git
 - 🖥 &nbsp; Notion | Figma | Canva
 
+<h3>🧾 Favorite Quote</h3>
+
 > "Make it work, then make it beautiful, then if you really, really have to, make it fast. 90 percent of the time, if you make it beautiful, it will already be fast. So really, just make it beautiful!" – Joe Armstrong
 
 <h3> 📋 Languages </h3>
