@@ -2,8 +2,9 @@
 
 <h2>😁 Intro</h2>
 
-- 👀 You can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
-- 🌱 I'm very passionate about Front-End Development and Full Stack
+- 💚 you can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
+- 🌱 i'm very passionate about Front-End Development and Full Stack
+- 🌲 this is my current [website](https://htmlpreview.github.io/?https://github.com/thisisnotdevin/project-bread/blob/master/index.html), it is still under construction 🚧
 
 <h2>🛠 Tech Stack</h2>
 
