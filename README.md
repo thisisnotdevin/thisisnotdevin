@@ -2,17 +2,18 @@
 
 <h2>😁 Intro</h2>
 
-- 💚 you can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
-- 🌱 i'm very passionate about Front-End Development and Full Stack
-- 🌲 this is my current [website](https://devinswebsite.netlify.app/), it is still under construction 🚧
+- 💚 You can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
+- 🌱 I'm very passionate about Front-End Development and Full Stack
+- 🌲 This is my current [PORTFOLIO WEBSITE](https://devinswebsite.netlify.app/), it is still under construction 🚧
 
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Python | JavaScript | React | C++ 
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | Java | C++ | C
+- 🌐 &nbsp; HTML | CSS | JavaScript| React.js | TypeScript (learning)
 - 🛢 &nbsp; MySQL | Firebase | Postman | AWS | Docker
-- 🔧 &nbsp; Google Collab | Visual Studio code  | Git
+- 🔧 &nbsp; Google Collab | Visual Studio Code | Github
 - 🖥 &nbsp; Notion | Figma | Canva
+- 🪂 &nbsp; Netlify 
 
 <h2>🧾 Favorite Quote</h2>
 
@@ -42,6 +43,9 @@
 </a>
 <a href="https://www.epicgames.com/">
   <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games logo">
+</a>
+<a href="https://codepen.io/thisisnotdevin">
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Code Pen logo">
 </a>
 
 <h2> 👩‍💻 Dashboard </h2>
