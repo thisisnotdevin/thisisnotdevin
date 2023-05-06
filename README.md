@@ -4,7 +4,7 @@
 
 - 💚 You can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
 - 🌱 I'm very passionate about Front-End Development and Full Stack
-- 🌲 This is my current [PORTFOLIO WEBSITE](https://devinswebsite.netlify.app/), it is still under construction 🚧
+- 🌲 This is my current [www.devinlin.com](https://www.devinlin.com/), it is still under construction 🚧
 
 <h2>🛠 Tech Stack</h2>
 
