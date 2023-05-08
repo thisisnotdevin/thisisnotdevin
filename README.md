@@ -10,7 +10,7 @@
 
 - 💻 &nbsp; Python | Java | C++ | C
 - 🌐 &nbsp; HTML | CSS | JavaScript| React.js | TypeScript (learning)
-- 🛢 &nbsp; MySQL | Firebase | Postman | AWS | Docker
+- 🛢 &nbsp; MySQL | Firebase | Postman 
 - 🔧 &nbsp; Google Collab | Visual Studio Code | Github
 - 🖥 &nbsp; Notion | Figma | Canva
 - 🪂 &nbsp; Netlify 
