@@ -5,6 +5,7 @@
 - 💚 You can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
 - 🌱 I'm very passionate about Front-End Development and Full Stack
 - 🌲 This is my current [www.devinlin.com](https://www.devinlin.com/), it is still the first version 🚧
+- 🪂 Besides tech, I'm also interested in healthcare and real estate areas.
 
 <h2>🛠 Tech Stack</h2>
 
