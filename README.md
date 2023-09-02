@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Devin I'm a Software Engineer/Developer
+# Hi, I’m Devin I'm a Software Engineer/Developer
 
-<h2>😁 Intro</h2>
+<h2>Intro</h2>
 
 - 💚 You can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
 - 🌱 I'm very passionate about Front-End Development and Full Stack
 - 🌲 This is my current [www.devinlin.com](https://www.devinlin.com/), it is still the first version 🚧
 - 🪂 Besides tech, I'm also interested in healthcare and real estate areas.
 
-<h2>🛠 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 - 💻 &nbsp; Python | Java | C++ | C
 - 🌐 &nbsp; HTML | CSS | JavaScript| React.js | TypeScript (learning)
@@ -16,11 +16,11 @@
 - 🖥 &nbsp; Notion | Figma | Canva
 - 🪂 &nbsp; Netlify 
 
-<h2>🧾 Favorite Quote</h2>
+<h2>Favorite Quote</h2>
 
 > "Make it work, then make it beautiful, then if you really, really have to, make it fast. 90 percent of the time, if you make it beautiful, it will already be fast. So really, just make it beautiful!" – Joe Armstrong
 
-<h2> 📋 Languages </h2>
+<h2>Languages </h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
