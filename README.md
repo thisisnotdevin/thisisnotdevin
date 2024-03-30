@@ -1,11 +1,10 @@
-# Hi, I’m Devin I'm a Software Engineer/Developer
+# Hi, I’m Devin I'm a Software Engineer
 
 <h2>Intro</h2>
 
-- 💚 You can take a look at my projects down below, I have pinned the ones that I'm most certainly proud of 
+- 💚 You can take a look at my projects down below
 - 🌱 I love making useful applications to make people's lives easier
 - 🌲 This is my current [www.devinlin.com](https://www.devinlin.com/), it is still the first version 🚧
-- 🪂 Besides tech, I'm also interested in healthcare and finance areas.
 
 <h2>Tech Stack</h2>
 
